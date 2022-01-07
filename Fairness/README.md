@@ -1,8 +1,8 @@
 ﻿# FEAT Fairness Methodology: Predictive Underwriting Assessment
 
-This repository provide a Jupyter notebook and supporting code for the
-Predictive Underwriting case study assessment in the FEAT Fairness Principles Assessment Case
-Studies Document. Please see Section 3 of that document for the Predictive Underwriting
+This repository provides Jupyter notebooks and supporting code for the
+Predictive Underwriting case study assessment in the FEAT Principles Assessment Case
+Studies Document (Veritas Document 4). Please see Section 2 of that document for the Predictive Underwriting
 case study assessment itself.
 
 This code should be considered an *alpha* pre-release version.
@@ -19,7 +19,6 @@ services industry.
 
 The key files and folders are the following:
 
-- `data/`: dataset
 - `data_exploration/`: Exploration of the dataset
    - **exploration_fairness.ipynb**
 - `group_fairness/`: Evaluation of the group fairness
@@ -47,4 +46,4 @@ License at http://www.apache.org/licenses/LICENSE-2.0
 Unless required by applicable law or agreed to in writing, software distributed
 under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
 CONDITIONS OF ANY KIND, either express or implied. See the License for the
-specific language governing permissions and limitations under the Licens
+specific language governing permissions and limitations under the License
